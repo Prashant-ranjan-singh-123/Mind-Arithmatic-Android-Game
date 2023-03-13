@@ -1,7 +1,7 @@
 
 # Mind Arithmatics 🎲
 
-![Logo]([https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Tic_Tac_Toe_Game/main/Screenshot/App.png](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Mind-Arithmatic-Android-Game/main/Screenshot/App.png))
+![Logo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Mind-Arithmatic-Android-Game/main/Screenshot/App.png)
 
 This game will increase your Arithmatics skills which will benifitial from a kid studing in school to the working man.
 
